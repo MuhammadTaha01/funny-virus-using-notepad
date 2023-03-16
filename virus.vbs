@@ -1,0 +1,7 @@
+X=MsgBox("Hello Viewer!",48+0,"My Computer")
+X=MsgBox("Virus has been detected in your computer",48+5,"My Computer")
+X=MsgBox("Do you want to delete it?",32+3,"My Computer")
+X=MsgBox("Your files has been deleted!",64+2,"Local Disk:/C")
+X=MsgBox("Your windows are now corrupted!",16+3,"Virus")
+X=MsgBox("Your computer is now not in your hand!!!",32+5,"Message from MuhammadTaha01")
+X=MsgBox("Enjoy with this code. . . & shock your friends too <3",48+0,"Message from MuhammadTaha01")
